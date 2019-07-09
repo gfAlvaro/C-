@@ -1,4 +1,2 @@
 # C++
-Programas en C++
-
-En este repositorio se irán subiendo programas en C++. En construcción...
+Programas en C++ pedidos en el Grado de Ingeniería Informática de la Universidad de Córdoba.
